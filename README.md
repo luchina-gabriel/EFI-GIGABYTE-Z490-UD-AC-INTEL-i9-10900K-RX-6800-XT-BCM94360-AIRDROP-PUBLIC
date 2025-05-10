@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z490 UD AC, Intel Core i9 10900K, 4x 16Gb DDR4, AMD Radeon RX 6800 XT and AirDrop
 
+![Portfolio](https://github.com/user-attachments/assets/82cf60fd-a58f-47dd-b2bb-7ba1df374d71)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.4.1)
